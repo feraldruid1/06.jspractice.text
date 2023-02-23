@@ -18,4 +18,5 @@ div{
 }
 span{
     color: blue;
+    cursor: pointer;
 }
