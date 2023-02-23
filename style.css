@@ -11,9 +11,11 @@ body{
 }
 div{
     width: 400px;
+    height: auto;
     border: 2px black solid;
     padding: 20px;
-    overflow: hidden;
-    height: 150px;
     background-color: #e7dede;
+}
+span{
+    color: blue;
 }
